@@ -10,8 +10,10 @@ int main(){
 	double JP=LR/LP;
 	cout<<"Jumlah box parket	 :"<<JP<<endl;
 	double BPR=JP*500;
-	cout<<"Biaya parket (rp)	 :"<<BPR<<endl;
+	cout<<"Biaya parket (Rp)	 :"<<BPR<<endl;
 	int BPS=LR*20;
+	cout<<"Biaya pasang (Rp		 :"<<BPS<<endl;
+	double TB=BPR+BPS;
 	
 	
 }
